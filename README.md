@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ondrocks aka Sandy
+- 👋 Hi, I’m Sandeep aka @ondrocks
 - 👀 I’m interested in Opensource
 - 🌱 I’m currently learning Azure ML
 - 💞️ I’m looking to collaborate on  Analytics Projects
